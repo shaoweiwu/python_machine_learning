@@ -1,7 +1,7 @@
 # python machine learning and data analysis
 Python機器學習與資料分析專案
 
-## house_price
+## house_prices
 房價預測
 
 ## mnist
